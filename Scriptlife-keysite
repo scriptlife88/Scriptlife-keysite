@@ -1,0 +1,16 @@
+Create a full responsive website for my brand "Scriptlife" with the following:
+
+- Dark theme (black and purple)
+- A fullscreen glowing background using my anime-style purple "S" lightning logo (hosted at https://i.imgur.com/tSsxuYY.png)
+- The title text: “scriptlife domain” centered and glowing
+- A big “Get Key” button in the center
+- When clicked, it opens a CAPTCHA box with a simple math question (e.g., "3 + 2 = ?")
+- If the user solves it correctly, it fetches a one-time use key from `/getkey` (simulated endpoint)
+- Under the key, display the result like: `Your Key: tOclWNsybWv7-123456`
+- Include a clickable Discord icon that links to https://discord.gg/Xv4NVebCwh
+- Include a clickable YouTube icon that links to https://youtube.com/@scriptlifescripter
+- Background should animate (pulse or fade-in)
+- Button hover effects, shadows, smooth transitions
+- Fully mobile responsive
+- All code in one HTML file (HTML, CSS, and JavaScript together)
+- Ready to upload or use directly on Replit, GitHub Pages, or Vercel
